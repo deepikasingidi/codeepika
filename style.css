@@ -3037,18 +3037,19 @@ a {
     }
     .row .value {
         line-height: 1;
+    }
     .code-prof .d-1 {
         max-width: 300px;
-    }
-    .co-body .profile img {
-        top: 0;
-        height: 40px;
-        width: 40px;
     }
     .co-body .profile .info p{
         max-width: 200px;
         margin-right: 0;
         margin-left: 40px;
+    }
+    .co-body .profile img {
+        top: 0;
+        height: 40px;
+        width: 40px;
     }
 }
 
