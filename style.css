@@ -2989,6 +2989,9 @@ a {
     .about-body .goal .p_1 {
         border-radius: 45%;
     }
+    .row .value {
+        line-height: 1.2;
+    }
 }
 
 @media (max-width: 376px) {
@@ -3044,7 +3047,7 @@ a {
     .co-body .profile .info p{
         max-width: 200px;
         margin-right: 0;
-        margin-left: 40px;
+        margin-left: 15%;
     }
     .co-body .profile img {
         top: 0;
