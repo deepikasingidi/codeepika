@@ -3035,6 +3035,8 @@ a {
         font-size: 14px;
         border-radius: 15px;
     }
+    .row .value {
+        line-height: 1;
     .code-prof .d-1 {
         max-width: 300px;
     }
